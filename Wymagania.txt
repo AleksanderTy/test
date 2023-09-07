@@ -1,3 +1,4 @@
 Logowanie do aplikacji:
 - użytkownik to dares email
 - hasło musi spełniać normę
+- hasło musi mieć 8 znaków
